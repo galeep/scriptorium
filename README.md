@@ -1,6 +1,6 @@
 # scriptorium: A Collection of Unixy Utilities
 
-**scriptorium** is a curated collection of scripts and utilities designed to simplify and enhance command-line tasks. This repository includes polished tools in the **stable** section, and experimental tools in **scriptoolery**.
+**scriptorium** is a thoughtfully curated collection of Unix-inspired scripts and utilities crafted to simplify and enhance command-line workflows. The repository includes polished, ready-to-use tools in the **stable** section, alongside experimental and prototype tools in **scriptoolery**.
 
 ## Structure
 
