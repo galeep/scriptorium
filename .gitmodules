@@ -1,0 +1,3 @@
+[submodule "scriptoolery"]
+	path = scriptoolery
+	url = https://github.com/galeep/scriptoolery.git
